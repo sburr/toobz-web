@@ -1,0 +1,4 @@
+# comments are ignored
+SSL_CERTFILE="sslcert/server.crt"
+SSL_KEYFILE="sslcert/server.key"
+PORT=4443

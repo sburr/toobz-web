@@ -1,0 +1,36 @@
+{
+  "name": "toobz-web",
+  "description": "Web GUI for tracking vacuum tube inventory",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "@mdi/font": "^6.7.96",
+    "axios": "^0.27.2",
+    "core-js": "^3.6.5",
+    "easy-js-camera": "^2.1.0",
+    "easy-vue-camera": "^1.0.5",
+    "roboto-fontface": "*",
+    "vue": "^2.6.11",
+    "vue-axios": "^3.4.1",
+    "vue-qr": "^3.2.2",
+    "vue-router": "^3.2.0",
+    "vuetify": "^2.4.0",
+    "vuex": "^3.4.0"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~4.5.0",
+    "@vue/cli-plugin-router": "~4.5.0",
+    "@vue/cli-plugin-vuex": "~4.5.0",
+    "@vue/cli-service": "~4.5.0",
+    "node-sass": "^4.12.0",
+    "sass": "~1.32.0",
+    "sass-loader": "^10.0.0",
+    "vue-cli-plugin-vuetify": "~2.4.3",
+    "vue-template-compiler": "^2.6.11",
+    "vuetify-loader": "^1.7.0"
+  }
+}
