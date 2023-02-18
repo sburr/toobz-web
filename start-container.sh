@@ -28,7 +28,7 @@ done;
 echo ""
 echo "Starting service..."
 echo "  Name: $NAME"
-echo "  Port: $PORT (host), 80 (container)"
+echo "  Port: $PORT (host), 443 (container)"
 echo "  SSL certfile: $SSL_CERTFILE"
 echo "  SSL keyfile: $SSL_KEYFILE"
 echo ""
